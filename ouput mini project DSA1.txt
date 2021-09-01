@@ -1,0 +1,1077 @@
+***********************************************************************************************
+COVID BED AVAILABILITY AND BOOKING SYSTEM
+***********************************************************************************************
+Enter you identity:
+1.Authority
+2.Citizen
+0.Exit
+1
+This is for Admins
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+2
+Enter Authority Name:
+ADMIN
+Enter password:
+doctor
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+4
+Hospital name: Pune Hospital 1 Contact no:866848642 Hospital address City Hospital, SaiNath Nagar,pune.
+
+Hospital name: Pune Hospital 2 Contact no:866848643 Hospital address City Hospital,KarveNagar,pune.
+
+Hospital name: Pune Hospital 3 Contact no:866854642 Hospital address City Hospital, kothrud,pune.
+
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+1
+enter hospital name : RUBY HOSPITAL,PUNE
+enter hospital Id : 4
+enter phone number : 147
+enter address : KARVENAGAR,PUNE
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+4
+Hospital name: Pune Hospital 1 Contact no:866848642 Hospital address City Hospital, SaiNath Nagar,pune.
+
+Hospital name: Pune Hospital 2 Contact no:866848643 Hospital address City Hospital,KarveNagar,pune.
+
+Hospital name: Pune Hospital 3 Contact no:866854642 Hospital address City Hospital, kothrud,pune.
+
+Hospital name: RUBY HOSPITAL,PUNE Contact no:147 Hospital addressKARVENAGAR,PUNE
+
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+3
+------------------------------------------------
+Name:
+Age: 0
+--------------------------------------------------
+------------------------------------------------
+Name:
+Age: 0
+--------------------------------------------------
+------------------------------------------------
+Name:
+Age: 0
+--------------------------------------------------
+------------------------------------------------
+Name:
+Age: 0
+--------------------------------------------------
+------------------------------------------------
+Name:
+Age: 0
+--------------------------------------------------
+------------------------------------------------
+Name:
+Age: 0
+--------------------------------------------------
+------------------------------------------------
+Name:
+Age: 0
+--------------------------------------------------
+------------------------------------------------
+Name:
+Age: 0
+--------------------------------------------------
+------------------------------------------------
+Name:
+Age: 0
+--------------------------------------------------
+------------------------------------------------
+Name:
+Age: 0
+--------------------------------------------------
+------------------------------------------------
+Name:
+Age: 0
+--------------------------------------------------
+------------------------------------------------
+Name:
+Age: 0
+--------------------------------------------------
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+5
+Enter patient name to Discharge:
+SACHIN
+No patient hospitalized
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+2
+Enter the hospital ID to be deleted:
+1
+hospital deleted
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+2
+Enter the hospital ID to be deleted:
+2
+hospital deleted
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+2
+Enter the hospital ID to be deleted:
+4
+hospital deleted
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+4
+Hospital name: RUBY HOSPITAL,PUNE Contact no:147 Hospital addressKARVENAGAR,PUNE
+
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+0
+Continue?(admin)
+1.Yes 0.No
+0
+Do you want to continue?(main)
+1.Yes 0.No
+1
+Enter you identity:
+1.Authority
+2.Citizen
+0.Exit
+2
+This is for Citizens
+================================================================================================
+|  HOPING TO FULLFILL YOUR REQUIREMENT , WE WILL SURELY TRY OUR BEST!                          |
+|  Please consult doctor and take medicines.                                                   |
+|  Have proper diet and eat lots of fruits.                                                    |
+|  Do Yoga and meditation , it helps in fast recovery by creating positive environment .       |
+|  If you find any sort of symptoms consult your doctor immediately.                           |
+|  Take care!!!!                                                                               |
+================================================================================================
+
+
+Don't worry we'll surely arrange a bed for you.Kindly complete the further procedure
+Enter details
+------------------------------------------------
+Enter name: SACHIN
+Enter age: 45
+Enter Contact number : 123
+Enter CT SCORE: 14
+Enter O2level: 84
+Comorbidity (1-yes/0-no): 1
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+2
+Display hospitals with beds available:
+Hospital ID is: 4   Hospital Phone No is: 147    Hospital address is: KARVENAGAR,PUNE
+
+Checking your criticality.............................You require a bed!
+Checking for bed availability:
+Total no of beds available in the city are: 3
+ Do you want to book bed?(Y/N)Y
+2
+Bed is being allocated to you
+Hospital name: RUBY HOSPITAL,PUNE Contact no:147 Hospital addressKARVENAGAR,PUNE
+
+Continue?(citizen)
+1.Yes 0.No
+1
+Enter details
+------------------------------------------------
+Enter name: ROHIT
+Enter age: 47
+Enter Contact number : 123
+Enter CT SCORE: 85
+Enter O2level: 74
+Comorbidity (1-yes/0-no): 1
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+2
+Display hospitals with beds available:
+Hospital ID is: 4   Hospital Phone No is: 147    Hospital address is: KARVENAGAR,PUNE
+
+Checking your criticality.............................You require a bed!
+Checking for bed availability:
+Total no of beds available in the city are: 2
+ Do you want to book bed?(Y/N)Y
+1
+Bed is being allocated to you
+Hospital name: RUBY HOSPITAL,PUNE Contact no:147 Hospital addressKARVENAGAR,PUNE
+
+Continue?(citizen)
+1.Yes 0.No
+1
+Enter details
+------------------------------------------------
+Enter name: MITHALI
+Enter age: 92
+Enter Contact number : 895
+Enter CT SCORE: 19
+Enter O2level: 86
+Comorbidity (1-yes/0-no): 1
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+2
+Display hospitals with beds available:
+Hospital ID is: 4   Hospital Phone No is: 147    Hospital address is: KARVENAGAR,PUNE
+
+Checking your criticality.............................You require a bed!
+Checking for bed availability:
+Total no of beds available in the city are: 1
+ Do you want to book bed?(Y/N)Y
+0
+Bed is being allocated to you
+Hospital name: RUBY HOSPITAL,PUNE Contact no:147 Hospital addressKARVENAGAR,PUNE
+
+Continue?(citizen)
+1.Yes 0.No
+1
+Enter details
+------------------------------------------------
+Enter name: VIRAT
+Enter age: 24
+Enter Contact number : 156
+Enter CT SCORE: 16
+Enter O2level: 86
+Comorbidity (1-yes/0-no): 1
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+2
+Display hospitals with beds available:
+
+Checking your criticality.............................You require a bed!
+Checking for bed availability:
+Total no of beds available in the city are: 0
+ Do you want to book bed?(Y/N)Y
+
+You are added to waiting list
+-------------------------------------------Continue?(citizen)
+1.Yes 0.No
+1
+Enter details
+------------------------------------------------
+Enter name: AJINKYA
+Enter age: 14
+Enter Contact number : 85
+Enter CT SCORE: 96
+Enter O2level: 35
+Comorbidity (1-yes/0-no): 1
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+2
+Display hospitals with beds available:
+
+Checking your criticality.............................You require a bed!
+Checking for bed availability:
+Total no of beds available in the city are: 0
+ Do you want to book bed?(Y/N)Y
+You are added to waiting list
+-------------------------------------------Continue?(citizen)
+1.Yes 0.No
+1
+Enter details
+------------------------------------------------
+Enter name: SMRITI
+Enter age: 54
+Enter Contact number : 123
+Enter CT SCORE: 14
+Enter O2level: 75
+Comorbidity (1-yes/0-no): 1
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+2
+Display hospitals with beds available:
+
+Checking your criticality.............................You require a bed!
+Checking for bed availability:
+Total no of beds available in the city are: 0
+ Do you want to book bed?(Y/N)Y
+You are added to waiting list
+-------------------------------------------Continue?(citizen)
+1.Yes 0.No
+1
+Enter details
+------------------------------------------------
+Enter name: HARMAN
+Enter age: 58
+Enter Contact number : 159
+Enter CT SCORE: 9
+Enter O2level: 87
+Comorbidity (1-yes/0-no): 1
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+2
+Display hospitals with beds available:
+
+Checking your criticality.............................You require a bed!
+Checking for bed availability:
+Total no of beds available in the city are: 0
+ Do you want to book bed?(Y/N)Y
+Sorry all beds are occupied and waiting list is full
+Continue?(citizen)
+1.Yes 0.No
+0
+Do you want to continue?(main)
+1.Yes 0.No
+1
+Enter you identity:
+1.Authority
+2.Citizen
+0.Exit
+1
+This is for Admins
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+2
+Enter Authority Name:
+ADMIN
+Enter password:
+doctor
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+3
+------------------------------------------------
+Name: SACHIN
+Age: 45
+--------------------------------------------------
+------------------------------------------------
+Name: ROHIT
+Age: 47
+--------------------------------------------------
+------------------------------------------------
+Name: MITHALI
+Age: 92
+--------------------------------------------------
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+5
+Enter patient name to Discharge:
+SACHIN
+Patient is discharged
+Update and bed allocated confirmation send to :: VIRAT
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+5
+Enter patient name to Discharge:
+ROHIT
+Patient is discharged
+Update and bed allocated confirmation send to :: AJINKYA
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+5
+Enter patient name to Discharge:
+VIRAT
+Patient is discharged
+Update and bed allocated confirmation send to :: SMRITI
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+3
+------------------------------------------------
+Name: SMRITI
+Age: 54
+--------------------------------------------------
+------------------------------------------------
+Name: AJINKYA
+Age: 14
+--------------------------------------------------
+------------------------------------------------
+Name: MITHALI
+Age: 92
+--------------------------------------------------
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+5
+Enter patient name to Discharge:
+MITHALI
+Patient is discharged
+No patient in waiting list
+Continue?(admin)
+1.Yes 0.No
+0
+Do you want to continue?(main)
+1.Yes 0.No
+0
+
+
+
+
+
+***********************************************************************************************
+COVID BED AVAILABILITY AND BOOKING SYSTEM
+***********************************************************************************************
+Enter you identity:
+1.Authority
+2.Citizen
+0.Exit
+1
+This is for admins
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+1
+Enter Authority Name:
+admin
+Enter password:
+doctor
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+4
+hospital name: Hospital 1 contact no:866848642 hospital address City Hospital, SaiNath Nagar,Mumbai.
+
+hospital name: Hospital 2 contact no:866848643 hospital address City Hospital,Thane,Mumbai.
+
+hospital name: Hospital 3 contact no:866854642 hospital address City Hospital, Powai,Mumbai.
+
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+1
+enter hospital name : ruby hospital,mumbai
+enter hospital Id : 4
+enter phone number : 123654
+enter address : borivali,mumbai
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+4
+hospital name: Hospital 1 contact no:866848642 hospital address City Hospital, SaiNath Nagar,Mumbai.
+
+hospital name: Hospital 2 contact no:866848643 hospital address City Hospital,Thane,Mumbai.
+
+hospital name: Hospital 3 contact no:866854642 hospital address City Hospital, Powai,Mumbai.
+
+hospital name: ruby hospital,mumbai contact no:123654 hospital addressborivali,mumbai
+
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+2
+Enter the hospital ID to be deleted:
+4
+hospital deleted
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+2
+Enter the hospital ID to be deleted:
+1
+hospital deleted
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+4
+hospital name: Hospital 2 contact no:866848643 hospital address City Hospital,Thane,Mumbai.
+
+hospital name: ruby hospital,mumbai contact no:123654 hospital addressborivali,mumbai
+
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+2
+Enter the hospital ID to be deleted:
+4
+hospital deleted
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+4
+hospital name: Hospital 2 contact no:866848643 hospital address City Hospital,Thane,Mumbai.
+
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+3
+------------------------------------------------
+Name:
+Age: 0
+--------------------------------------------------
+------------------------------------------------
+Name:
+Age: 0
+--------------------------------------------------
+------------------------------------------------
+Name:
+Age: 0
+--------------------------------------------------
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+5
+Enter patient name to Discharge:
+ajke
+No patient hospitalized
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+0
+Continue?(admin)
+1.Yes 0.No
+0
+Do you want to continue?(main)
+1.Yes 0.No
+1
+Enter you identity:
+1.Authority
+2.Citizen
+0.Exit
+2
+This is for citizens
+================================================================================================
+|  HOPING TO FULLFILL YOUR REQUIREMENT , WE WILL SURELY TRY OUR BEST!                          |
+|  Please consult doctor and take medicines.                                                   |
+|  Have proper diet and eat lots of fruits.                                                    |
+|  Do yoga and meditation , it helps in fast recovery by creating positive environment .       |
+|  If you find any sort of symptoms consult your doctor immediately.                           |
+|  Take care!!!!                                                                               |
+================================================================================================
+
+
+Don't worry we'll surely arrange a bed for you.Kindly complete the further procedure
+Enter details
+------------------------------------------------
+Enter name: JAKE
+Enter age:
+86
+Enter Contact number : 123654
+Enter CT SCORE: 19
+Enter O2level: 84
+Comorbidity (1-yes/0-no): 1
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+1
+Display hospitals with beds available:
+Hospital ID is: 2   Hospital Phone No is: 866848643    Hospital address is:  City Hospital,Thane,Mumbai.
+
+Checking your criticality.............................You require a bed!
+Checking for bed availability:
+Total no of beds available in the city are: 3
+ Do you want to book bed?(Y/N)Y
+2
+Bed is being allocated to you
+hospital name: Hospital 2 contact no:866848643 hospital address City Hospital,Thane,Mumbai.
+
+Continue?(citizen)
+1.Yes 0.No
+1
+Enter details
+------------------------------------------------
+Enter name: AMY
+Enter age: 30
+Enter Contact number : 8756
+Enter CT SCORE: 19
+Enter O2level: 90
+Comorbidity (1-yes/0-no): 1
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+1
+Display hospitals with beds available:
+Hospital ID is: 2   Hospital Phone No is: 866848643    Hospital address is:  City Hospital,Thane,Mumbai.
+
+Checking your criticality.............................You require a bed!
+Checking for bed availability:
+Total no of beds available in the city are: 2
+ Do you want to book bed?(Y/N)Y
+1
+Bed is being allocated to you
+hospital name: Hospital 2 contact no:866848643 hospital address City Hospital,Thane,Mumbai.
+
+Continue?(citizen)
+1.Yes 0.No
+1
+Enter details
+------------------------------------------------
+Enter name: HO
+Enter age: 18
+Enter Contact number : 123
+Enter CT SCORE: 19
+Enter O2level: 84
+Comorbidity (1-yes/0-no): 0
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+1
+Display hospitals with beds available:
+Hospital ID is: 2   Hospital Phone No is: 866848643    Hospital address is:  City Hospital,Thane,Mumbai.
+
+Taking your factors into consideration,we suggest you to be home quarantined
+Please consult doctor and take medicines
+Have proper diet and eat lot of fruits
+Do yoga and meditation it helps in fast recovery
+If any sort of pain increases consult your doctor immediately
+Take care!!!!
+You need to be homequarantine
+Continue?(citizen)
+1.Yes 0.No
+1
+Enter details
+------------------------------------------------
+Enter name: GINA
+Enter age: 85
+Enter Contact number : 12365
+Enter CT SCORE: 19
+Enter O2level: 84
+Comorbidity (1-yes/0-no): 1
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+1
+Display hospitals with beds available:
+Hospital ID is: 2   Hospital Phone No is: 866848643    Hospital address is:  City Hospital,Thane,Mumbai.
+
+Checking your criticality.............................You require a bed!
+Checking for bed availability:
+Total no of beds available in the city are: 1
+ Do you want to book bed?(Y/N)Y
+0
+Bed is being allocated to you
+hospital name: Hospital 2 contact no:866848643 hospital address City Hospital,Thane,Mumbai.
+
+Continue?(citizen)
+1.Yes 0.No
+1
+Enter details
+------------------------------------------------
+Enter name: CHARLES
+Enter age: 85
+Enter Contact number : 1265
+Enter CT SCORE: 12
+Enter O2level: 84
+Comorbidity (1-yes/0-no): 1
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+1
+Display hospitals with beds available:
+
+Checking your criticality.............................You require a bed!
+Checking for bed availability:
+Total no of beds available in the city are: 0
+ Do you want to book bed?(Y/N)Y
+
+You are added to waiting list
+-------------------------------------------Continue?(citizen)
+1.Yes 0.No
+1
+Enter details
+------------------------------------------------
+Enter name: ABC
+Enter age: 78
+Enter Contact number : 12365
+Enter CT SCORE: 18
+Enter O2level: 84
+Comorbidity (1-yes/0-no): 1
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+1
+Display hospitals with beds available:
+
+Checking your criticality.............................You require a bed!
+Checking for bed availability:
+Total no of beds available in the city are: 0
+ Do you want to book bed?(Y/N)Y
+You are added to waiting list
+-------------------------------------------Continue?(citizen)
+1.Yes 0.No
+1
+Enter details
+------------------------------------------------
+Enter name: FGT
+Enter age: 85
+Enter Contact number : 12365
+Enter CT SCORE: 18
+Enter O2level: 87
+Comorbidity (1-yes/0-no): 1
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+1
+Display hospitals with beds available:
+
+Checking your criticality.............................You require a bed!
+Checking for bed availability:
+Total no of beds available in the city are: 0
+ Do you want to book bed?(Y/N)Y
+You are added to waiting list
+-------------------------------------------Continue?(citizen)
+1.Yes 0.No
+1
+Enter details
+------------------------------------------------
+Enter name: BHG
+Enter age: 85
+Enter Contact number : 12365
+Enter CT SCORE: 19
+Enter O2level: 87
+Comorbidity (1-yes/0-no): 1
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+1
+Display hospitals with beds available:
+
+Checking your criticality.............................You require a bed!
+Checking for bed availability:
+Total no of beds available in the city are: 0
+ Do you want to book bed?(Y/N)Y
+Sorry all beds are occupied and waiting list is full
+Continue?(citizen)
+1.Yes 0.No
+0
+Do you want to continue?(main)
+1.Yes 0.No
+1
+Enter you identity:
+1.Authority
+2.Citizen
+0.Exit
+1
+This is for admins
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+1
+Enter Authority Name:
+ADMIN
+Enter password:
+doctor
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+3
+------------------------------------------------
+Name: JAKE
+Age: 86
+--------------------------------------------------
+------------------------------------------------
+Name: AMY
+Age: 30
+--------------------------------------------------
+------------------------------------------------
+Name: GINA
+Age: 85
+--------------------------------------------------
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+5
+Enter patient name to Discharge:
+JAKE
+Patient is discharged
+Update and bed allocated confirmation send to CHARLES
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+5
+Enter patient name to Discharge:
+JAKE
+Patient not found
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+4
+hospital name: Hospital 2 contact no:866848643 hospital address City Hospital,Thane,Mumbai.
+
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+3
+------------------------------------------------
+Name: CHARLES
+Age: 85
+--------------------------------------------------
+------------------------------------------------
+Name: AMY
+Age: 30
+--------------------------------------------------
+------------------------------------------------
+Name: GINA
+Age: 85
+--------------------------------------------------
+Continue?(admin)
+1.Yes 0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+0
+Continue?(admin)
+1.Yes 0.No
+0
+Do you want to continue?(main)
+1.Yes 0.No
+0
